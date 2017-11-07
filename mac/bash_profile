@@ -1,0 +1,5 @@
+alias ic='cd ~/Library/Mobile\ Documents/com~apple~CloudDocs'
+
+# run this once to symlink iCloud folder
+# ln -s "/Users/donwb/Library/Mobile Documents/com~apple~CloudDocs" icloud
+
